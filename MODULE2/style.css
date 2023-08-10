@@ -1,0 +1,24 @@
+h1{
+    font-family: 'Borel', cursive;
+}
+#logo{
+    font-family: 'Borel', cursive;
+font-family: 'Lora', serif;
+font-family: 'Lumanosimo', cursive;
+color:#9F0D7F;
+}
+.carousel-item img{
+    width: 90%;
+    height: 85vh;
+    padding: 6px;
+}
+.accordion-item{
+    color:#04831f;
+    text-align: justify;
+}
+.accordion-button{
+    color:blue;
+}
+.contactus{
+    max-height:50%;
+}
